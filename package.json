@@ -1,0 +1,21 @@
+{
+  "name": "bases",
+  "version": "1.0.0",
+  "description": "My first Step on Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "Line Command App"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Angstromico"
+  },
+  "author": "Manuel Esteban Mrales Zuarez",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
